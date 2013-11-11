@@ -1,0 +1,16 @@
+# comment
+tempfile.txt
+.DS_Store
+*.gz
+log/*.log
+log/*log.[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4
+*.php
+.project
+.settings/
+basic.html
+mysql_commands.html
+
+# question: would log/archive/access.log be ignored?
